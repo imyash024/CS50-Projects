@@ -1,1 +1,1 @@
-# project
+# CS50 Projects
